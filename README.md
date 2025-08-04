@@ -3,7 +3,7 @@
 ## Descrição
 ---------------
 
-O Sistema de Notas é um Sistema de gerenciamento de notas para alunos, desenvolvido em Python com a biblioteca Tkinter. O sistema permite adicionar, listar, atualizar e deletar notas de alunos, além de calcular a média da turma. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+> O Sistema de Notas é um Sistema de gerenciamento de notas para alunos, desenvolvido em Python com a biblioteca Tkinter. O sistema permite adicionar, listar, atualizar e deletar notas de alunos, além de calcular a média da turma. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Funcionalidades
 -----------------
