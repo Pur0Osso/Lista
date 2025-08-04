@@ -18,7 +18,7 @@ def conectar():
     """)
     conn.commit()
     conn.close()
-
+    # abalebus
 #--------------------FUNÇÕES--------------------
 def adicionar_aluno(nome, nota):
     conn = sqlite3.connect("banco.db")
